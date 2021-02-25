@@ -31,13 +31,13 @@ In general all functions provided by ARETT are demonstrated in this application.
 
 ### ARETT Prefab
 
-ARETT is integrated into the project using the [Unity Prefab](https://github.com/AR-Eye-Tracking-Toolkit/ARETT/wiki/Eye-Tracking-Prefab/Prefab-Overview) provided by the toolkit.
+ARETT is integrated into the project using the [Unity Prefab](https://github.com/AR-Eye-Tracking-Toolkit/ARETT/wiki/Prefab-Overview) provided by the toolkit.
 
-Detailed documentation of all functions provided by the prefab can be found in the [ARETT wiki](https://github.com/AR-Eye-Tracking-Toolkit/ARETT/wiki/Eye-Tracking-Prefab/Prefab-Overview).
+Detailed documentation of all functions provided by the prefab can be found in the [ARETT wiki](https://github.com/AR-Eye-Tracking-Toolkit/ARETT/wiki/Prefab-Overview).
 
 ### Configuration
 
-The configuration needed for the toolkit should already be set for this project. However, if there are issues the configuration can be checked and corrected using the [configuration](https://github.com/AR-Eye-Tracking-Toolkit/ARETT/wiki/Eye-Tracking-Prefab/Configuration) tool of the prefab.
+The configuration needed for the toolkit should already be set for this project. However, if there are issues the configuration can be checked and corrected using the [configuration](https://github.com/AR-Eye-Tracking-Toolkit/ARETT/wiki/Configuration) tool of the prefab.
 
 ### Data Recording
 
