@@ -1,0 +1,3 @@
+[submodule "Assets/ARETT"]
+	path = Assets/ARETT
+	url = https://github.com/AR-Eye-Tracking-Toolkit/ARETT.git
