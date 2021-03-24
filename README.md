@@ -52,3 +52,22 @@ To show the visualization during development or to check AOI placement the _Show
 ### Accuracy Grid
 
 The accuracy grid provided by the toolkit can be accessed at any time using the control interface while the application is running. Showing it hides all content of the scene with only the accuracy grid being displayed.
+
+## Reference
+
+```tex
+@article{Kapp.2021,
+    title={ARETT: Augmented Reality Eye Tracking Toolkit for Head Mounted Displays},
+    author={Kapp, Sebastian and Barz, Michael and Mukhametov, Sergey and Sonntag, Daniel and Kuhn, Jochen},
+    journal={Sensors},
+    volume={21},
+    number={6},
+    pages={2234},
+    ISSN={1424-8220},
+    url={http://dx.doi.org/10.3390/s21062234},
+    DOI={10.3390/s21062234},
+    publisher={MDPI AG},
+    month={Mar},
+    year={2021}
+}
+```
