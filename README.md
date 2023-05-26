@@ -12,6 +12,10 @@ The project was developed using [Unity 2019.4.20f1](https://unity3d.com/unity/wh
 
 After opening the application in the Unity Editor the build target needs to be set to UWP to enable all ARETT functions, even when testing using play mode in the Editor.
 
+### Unity 2021
+
+This project was developed for Unity 2019.4.20 and is therefore not immediately compatible to Unity 2021. However, as ARETT has been updated to Unity 2021.3.2 it should be possible to inlude the updated ARETT version in the `Assets/ARETT` folder and to automatically update the project using Unity 2021. Nevertheless, small changes and fixes to the project might be necessary for full compatibility.
+
 
 ## Scene setup
 
